@@ -1,3 +1,3 @@
 # BuscaPokemonAPI
 
-Consumo de API, traznedo imagem e dados do pokemon pesquisado
+Consumo de API, trazendo imagem e dados do pokemon pesquisado
